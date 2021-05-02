@@ -2,6 +2,8 @@
 
 "SamVedah" in Sanskrit means education for all. This web app is made for poor children to match them with mentors for free as education is for everyone and everyone has the right to education. 
 
+![alt text](https://i2.paste.pics/d3a24d88b59b17c1aa01a15c35176ee6.png)
+
 # Inspiration
 
 Studies have been affected a lot due to COVID-19. As government schools are closed, students in rural INDIA cannot afford private tuition. Also, the middle-class section of society has been affected financially the most. 
